@@ -1,5 +1,6 @@
 - Create react app using vite
 - Configured TailwindCSS
+- Header 
 
 # Features
 - Login/Sign Up
